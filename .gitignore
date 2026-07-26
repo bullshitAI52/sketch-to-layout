@@ -1,0 +1,16 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# User uploads and generated layout images
+uploads/
+outputs/
+
+# Operating-system files
+.DS_Store
+
+# Local environment overrides
+.env
+.env.*
